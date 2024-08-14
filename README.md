@@ -1,3 +1,6 @@
+//STUDENT DATABASE MANAGEMENT SYSTEM
+  
+  
   #include <stdio.h>	  																							
 		Example printf, scanf etc. If we want to use printf or scanf function in our program, we should include the stdio.																							
 																									
